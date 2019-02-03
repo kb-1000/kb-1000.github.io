@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/kaeptmblaubaer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kaeptmblaubaer1000.github.io
+  * I am kaeptmblaubaer (https://keybase.io/kaeptmblaubaer) on keybase.
+  * I have a public key ASBFdhr4r-upC4Wq-mEOyrgJbHvhyDUKkLzl62VJuxIwvQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101c86aeb48034b4a54fb26413b331f4f94b292ec18eef279f7380116e5e9b082300a",
+      "host": "keybase.io",
+      "kid": "012045761af8afeba90b85aafa610ecab8096c7be1c8350a90bce5eb6549bb1230bd0a",
+      "uid": "bbeabf4e3e6fb0c897699890fe873b19",
+      "username": "kaeptmblaubaer"
+    },
+    "merkle_root": {
+      "ctime": 1549215062,
+      "hash": "0c79c4723cfaa974e01a8e8bd14a1c10e7ffd23e0a8250cb73c112b629107190ce25bb261cdabf21212687048c532cb02e9047eccee2ed081832e8a50a8963e3",
+      "hash_meta": "b6e90934e77f845ab44e1db3fce0bcea0a3599a09f9cc07b556a056836e3310d",
+      "seqno": 4688662
+    },
+    "service": {
+      "entropy": "65K8W8RUwWGkLZHsKV+v4e1u",
+      "hostname": "kaeptmblaubaer1000.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.1"
+  },
+  "ctime": 1549215067,
+  "expire_in": 504576000,
+  "prev": "1548562a5eb44c0ecc8b5922bd6853e9220c13743b9afc7dc89159eedd196366",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRXYa+K/rqQuFqvphDsq4CWx74cg1CpC85etlSbsSML0Kp3BheWxvYWTESpcCCsQgFUhWKl60TA7Mi1kivWhT6SIME3Q7mvx9yJFZ7t0ZY2bEIKtlfTj/ZirC4KFsEnGrXbmCQqkL2DkTkAZ75DsWjP+CAgHCo3NpZ8RAOBvsqYxgqBOVUw35USdJ1iTOmMKP9r483FqaVCK6Wmkx1cg12TrUc/qYvjJpX7GxH2+KbyXi+XDJsGIU3hdDC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKkwkp4QqlU2IKqITqB0rNhA/TxPpejCvCq9viZQuy3oo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kaeptmblaubaer
+
+==================================================================
+
